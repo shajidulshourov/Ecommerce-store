@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shajid Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Shajidul Shourov</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
 - 🔭 I’m currently working on **Time-management-system-project**
